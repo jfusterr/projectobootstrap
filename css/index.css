@@ -1,5 +1,5 @@
 body{
-  background: no-repeat url(/fotos/fondoindice.jpg);
+  background: no-repeat url(../fotos/fondoindice.jpg);
   background-position: center;
   height: 100vh;
   background-size: 100% 100%;
