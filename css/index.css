@@ -1,7 +1,7 @@
 body{
   background: no-repeat url(../fotos/fondoindice.jpg);
   background-position: center;
-  height: 100vh;
+  height: 100%;
   background-size: 100% 100%;
 }
 
