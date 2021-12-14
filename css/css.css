@@ -1,0 +1,11 @@
+body{
+  background: center no-repeat url(../fotos/fondoindice.jpg);
+  background-size: cover;
+  height: 100vh;
+  
+}
+
+.memato{
+  padding-top: 100px;
+  padding-bottom: 45px;
+}
